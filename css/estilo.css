@@ -1,0 +1,204 @@
+body{
+    background-color: black;
+}
+
+a{
+    text-size-adjust: 90px; color: #ffffff; margin-left: 40px; margin-right: 50px; margin-top: 50cm; margin-bottom: 12px;}
+
+header{
+    text-align: start;
+    color:#ffffff;
+    padding: 40px;
+}
+
+h1{
+    color: #eb1f1f;
+    margin-left: 440px;
+    margin-top: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:400%;
+}
+
+.start{
+    color: #ffffff;
+    margin-left: 440px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+img{
+    width: 50%;
+}
+
+h2{ margin-top: 110px; font-style: italic; font-family: 'Times New Roman', Times, serif; font-size:300%; color: #ffffff; margin-left: 600px; margin-top: 30px;}
+
+h3{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 190%;
+}
+
+.sb{
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+
+.sbl{
+    color: black;
+}
+#cartoes{
+    margin: 10vh auto;
+    width: 80vw;
+    
+}
+
+.dois{
+    background-color: #ffffff;
+    width:400px;
+    text-align: center;
+    margin: 56px;
+    height: 555px;
+    border-radius: 20px;
+    float: left;
+    
+}
+
+
+#logo{width: 100px; height: 100px;}
+
+.star{
+    color: #ffffff;
+    margin-left: 300px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+
+.star2{
+    color: #ffffff;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+
+.tres{
+    background-color: #ffff03;
+    width:400px;
+    text-align: center;
+    margin: 56px;
+    height: 455px;
+    border-radius: 20px;
+    float: left;
+}
+
+.quatro{
+    background-color: #ffa805;
+    width:400px;
+    text-align: center;
+    margin: 56px;
+    height: 455px;
+    border-radius: 20px;
+    float: left;
+}
+
+.cinco{
+    background-color: #fab272;
+    width:400px;
+    text-align: center;
+    margin: 56px;
+    height: 455px;
+    border-radius: 20px;
+    float: left;
+}
+
+footer{
+    text-align: center;
+    color: #ffffff;
+    margin-right: 400px;
+    margin-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:200%;
+}
+
+.sn{
+    color: #ffffff;
+    margin-left: 700px;
+    margin-top: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:400%;
+}
+
+.hr2{
+    margin-left: 350px;
+}
+
+.starmie{
+    color: #ffffff;
+    margin-left: 400px;
+    margin-top: 70px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 270%;
+}
+
+.carinha{
+    width: 850px;
+    left: 850px;
+    margin-left: 400px;
+    border-radius: 20%;
+    margin-right: 600px;
+}
+
+a:hover{color: #20b9f1;}
+
+.loja{
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin:50px;
+}
+
+section{ background-color: #ffffff; width: 970px; margin: 50px;  text-align: left; height: 455px; border-radius: 10%; margin-left: 400px;}
+
+.sbr{ color: black; font-size: 250%; margin-left: 50px;}
+
+.h2{ margin-top: 110px; font-style: italic; font-family: 'Times New Roman', Times, serif; font-size:500%; color: #ffffff; margin-left: 600px; margin-top: 30px;}
+
+.form{
+    background-color: #ffffff;
+    width: 600px;
+    margin: 50px;
+    height: 800px;
+    border-radius: 10%;
+    margin-left: 400px;
+}
+
+form{
+    margin-left: 150px;
+    margin-top: 90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ultimo{background-color: #ffffff; width: 750px; margin: 010px; height: 800px; border-radius: 10%; margin-left: 450px;}
+
+.sf{
+    margin-left: 170px;
+    margin-top: 85px;
+    width: 400px;
+    border-radius: 10%;
+}
+
+.sb2{
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    margin-left: 40px;
+}
+
+.sbrv{ color: black; font-size: 400%; margin-left: 170px;}
